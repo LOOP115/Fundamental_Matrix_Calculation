@@ -4,6 +4,8 @@
 
 ### [Dataset](resources/kusvod2.tar)
 
+### [Report](resources/report.pdf)
+
 
 
 ## Introduction
@@ -34,12 +36,12 @@
 
 ## Report
 
-* Why you need each of these steps. 
+* Why you need each of these steps. ✔
 
-* Design choices you have made along with numerical quantities. 
+* Design choices you have made along with numerical quantities. ✔
 
-  * Choice of error tolerance at step f
+  * Choice of error tolerance at step f ✔
 
-  * Calculation needed to determine the number of RANSAC iterations at step g.
+  * Calculation needed to determine the number of RANSAC iterations at step g. ✔
 
-* Discuss whether there are images that work better than others in the dataset and why.
+* Discuss whether there are images that work better than others in the dataset and why. ✔
